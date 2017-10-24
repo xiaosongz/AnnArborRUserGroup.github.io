@@ -1,6 +1,6 @@
 # Readme
 
-This is the readme for the [Ann Arbor R User Group webpage](annarborrusergroup.github.io) repository.
+This is the readme for the [Ann Arbor R User Group webpage](https://annarborrusergroup.github.io) repository.
 
 The site is built using [Jekyll](http://jekyllrb.com/) and hosted using [GitHub Pages](https://pages.github.com).
 
